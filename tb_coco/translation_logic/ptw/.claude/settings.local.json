@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//home/inu/adip-pretraning/translation_logic/**)",
+      "Read(//home/inu/adip-pretraning/rtl/translation_logic/ptw/**)"
+    ]
+  }
+}
